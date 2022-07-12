@@ -1,0 +1,8 @@
+{
+    "name": "bubble-tea-recipes-angular",
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        }
+    ]
+}
